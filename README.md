@@ -14,4 +14,4 @@
 
 
 ### 正则项
-- [L1在0点处不可导怎么办？可采用坐标轴下降、最小角回归法](http://www.cnblogs.com/pinard/p/6018889.html)
+- [L1在0点处不可导怎么办？](http://www.cnblogs.com/pinard/p/6018889.html)可采用坐标轴下降、最小角回归法
