@@ -13,7 +13,7 @@
 - [过滤法、包装法、嵌入法](https://www.cnblogs.com/pinard/p/9032759.html) ([pdf版](https://github.com/wangyuGithub01/Machine_Learning_Notes/blob/master/pdf/feature_selection.pdf))
 - [Kaggle中的代码实战](https://www.kaggle.com/willkoehrsen/introduction-to-feature-selection) ([pdf版](https://github.com/wangyuGithub01/Machine_Learning_Notes/blob/master/pdf/feature_selection_kaggle.pdf))
 
-### 算法相关
+### 二、算法相关
 #### 评价指标
 - [PR曲线和F1 & ROC曲线和AUC](http://note.youdao.com/noteshare?id=13d31b4a7dc317b3d4abd18bf42a74df)
 
@@ -25,7 +25,7 @@
 - [常见回归和分类损失函数比较
 ](http://note.youdao.com/noteshare?id=070ef1d6687a15dc2747cb094e005ea4)
 
-#### 二、算法
+#### 算法
 - [GBDT、XGBOOST、LightGBM (强推)](https://github.com/wangyuGithub01/Machine_Learning_Notes/blob/master/pdf/gbdt_wepon.pdf)
 - [随机森林 GBDT  XGBOOST  LightGBM 比较](http://note.youdao.com/noteshare?id=65790e27fd5737155c31af2c05df8985)
 
