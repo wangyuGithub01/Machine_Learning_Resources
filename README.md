@@ -3,10 +3,10 @@
 ### 一、特征工程
 
 #### 特征预处理
-- [缺失值、特殊特征(eg.时间)、离散特征](https://www.cnblogs.com/pinard/p/9093890.html)
+- [标准化、归一化、异常特征清洗、不平衡数据](https://www.cnblogs.com/pinard/p/9093890.html)
 
 #### 特征表达
-- [刘建平blog](https://www.cnblogs.com/pinard/p/9061549.html)
+- [缺失值、特殊特征(eg.时间)、离散特征、连续特征](https://www.cnblogs.com/pinard/p/9061549.html)
 
 #### 特征选择
 - [过滤法、包装法、嵌入法](https://www.cnblogs.com/pinard/p/9032759.html) ([pdf版](https://github.com/wangyuGithub01/Machine_Learning_Notes/blob/master/pdf/feature_selection.pdf))
