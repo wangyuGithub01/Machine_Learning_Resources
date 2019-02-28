@@ -4,6 +4,7 @@
 
 #### 特征预处理
 - [标准化、归一化、异常特征清洗、不平衡数据](https://www.cnblogs.com/pinard/p/9093890.html)
+- [不平衡数据的处理方法](https://blog.csdn.net/zhang15953709913/article/details/84635540)
 
 #### 特征表达
 - [缺失值、特殊特征(eg.时间)、离散特征、连续特征](https://www.cnblogs.com/pinard/p/9061549.html)
@@ -25,7 +26,11 @@
 - [常见回归和分类损失函数比较
 ](http://note.youdao.com/noteshare?id=070ef1d6687a15dc2747cb094e005ea4)
 
+#### 模型训练
+- [经验误差与泛化误差、偏差与方差、欠拟合与过拟合、交叉验证](http://note.youdao.com/noteshare?id=b629383adb3b09eb31b754c337f690b5)
+
 #### 算法
+- [逻辑回归与决策树在分类上的区别](https://blog.csdn.net/zhang15953709913/article/details/84841988)
 - [GBDT、XGBOOST、LightGBM (强推)](https://github.com/wangyuGithub01/Machine_Learning_Notes/blob/master/pdf/gbdt_wepon.pdf)
 - [随机森林 GBDT  XGBOOST  LightGBM 比较](http://note.youdao.com/noteshare?id=65790e27fd5737155c31af2c05df8985)
 
