@@ -3,7 +3,7 @@
 ### 一、特征工程
 
 #### 特征预处理
-- [缺失值、特殊特征(eg.时间)](https://www.cnblogs.com/pinard/p/9093890.html)
+- [缺失值、特殊特征(eg.时间)、离散特征](https://www.cnblogs.com/pinard/p/9093890.html)
 
 #### 特征表达
 - [刘建平blog](https://www.cnblogs.com/pinard/p/9061549.html)
