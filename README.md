@@ -10,6 +10,7 @@
 #### 特征表达
 - [缺失值、特殊特征(eg.时间)、离散特征、连续特征](https://www.cnblogs.com/pinard/p/9061549.html)
 - [连续特征离散化的好处](http://note.youdao.com/noteshare?id=024fa3dbabf4b5a07eb72c8021e60f62)
+- [什么样的模型对缺失值更敏感？]()
 
 #### 特征选择
 - [过滤法、包装法、嵌入法](https://www.cnblogs.com/pinard/p/9032759.html) ([pdf版](https://github.com/wangyuGithub01/Machine_Learning_Notes/blob/master/pdf/feature_selection.pdf))
@@ -34,7 +35,7 @@
 - [逻辑回归与决策树在分类上的区别](https://blog.csdn.net/zhang15953709913/article/details/84841988)
 - [GBDT、XGBOOST、LightGBM (强推)](https://github.com/wangyuGithub01/Machine_Learning_Notes/blob/master/pdf/gbdt_wepon.pdf)
 - [随机森林 GBDT  XGBOOST  LightGBM 比较](http://note.youdao.com/noteshare?id=65790e27fd5737155c31af2c05df8985)
-
+- [各种机器学习算法的应用场景](https://www.zhihu.com/question/26726794)
 
 
 ### 三、其他
