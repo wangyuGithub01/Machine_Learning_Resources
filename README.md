@@ -45,7 +45,7 @@
 
 ### 四、企业中的应用
 - [主流CTR预估模型的演化及对比](https://zhuanlan.zhihu.com/p/35465875)
-- [ctr](https://zhuanlan.zhihu.com/p/57987311)
+- [CTR预估之GBDT+LR（经典）](https://zhuanlan.zhihu.com/p/57987311)
 
 
 ### 四、推荐书籍
