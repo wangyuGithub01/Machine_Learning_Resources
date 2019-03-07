@@ -26,8 +26,8 @@ SVM直接去掉了远离分类决策面的数据，只考虑支持向量的影�
 5、SVM依赖penalty系数，实验中需要做CV6、SVM本身是结构风险最小化模型，而LR是经验风险最小化模型 \
 
   - 另外怎么选模型：\
-在Andrew NG的课里讲到过：
-1. 如果Feature的数量很大，跟样本数量差不多，这时候选用LR或者是Linear Kernel的SVM \
-2. 如果Feature的数量比较小，样本数量一般，不算大也不算小，选用SVM+Gaussian Kernel \
-3. 如果Feature的数量比较小，而样本数量很多，需要手工添加一些feature变成第一种情况
+    在Andrew NG的课里讲到过：
+    1. 如果Feature的数量很大，跟样本数量差不多，这时候选用LR或者是Linear Kernel的SVM \
+    2. 如果Feature的数量比较小，样本数量一般，不算大也不算小，选用SVM+Gaussian Kernel \
+    3. 如果Feature的数量比较小，而样本数量很多，需要手工添加一些feature变成第一种情况
 
