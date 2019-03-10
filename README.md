@@ -34,6 +34,7 @@
 #### （五）算法
 - [判别模型 vs 生成模型](https://www.zhihu.com/question/20446337)
 - [参数模型 vs 非参数模型](https://blog.csdn.net/sinat_27652257/article/details/80543604)
+- [参数估计 最大似然估计与贝叶斯估计](https://blog.csdn.net/bitcarmanlee/article/details/52201858)
 - [LR优缺点](https://github.com/wangyuGithub01/Machine_Learning_Notes/blob/master/pdf/lr_pros_and_cons.md)
 - [SVM、logistic regression、linear regression对比](https://github.com/wangyuGithub01/Machine_Learning_Notes/blob/master/pdf/compare_svm_lr.md)
 - [SVM、LR详细对比](https://www.zhihu.com/search?type=content&q=LR%E5%92%8CSVM)
