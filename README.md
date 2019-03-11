@@ -34,7 +34,6 @@
 #### （五）算法
 - [LR优缺点](https://github.com/wangyuGithub01/Machine_Learning_Notes/blob/master/pdf/lr_pros_and_cons.md)
 - [SVM、logistic regression、linear regression对比](https://github.com/wangyuGithub01/Machine_Learning_Notes/blob/master/pdf/compare_svm_lr.md)
-- [SVM、LR详细对比](https://www.zhihu.com/search?type=content&q=LR%E5%92%8CSVM)
 - [浅谈最优化问题的KKT条件](https://zhuanlan.zhihu.com/p/26514613)
 - [逻辑回归与决策树在分类上的区别](https://blog.csdn.net/zhang15953709913/article/details/84841988)
 - [GBDT、XGBOOST、LightGBM讲解(强烈推荐看一下)](https://github.com/wangyuGithub01/Machine_Learning_Notes/blob/master/pdf/gbdt_wepon.pdf)
