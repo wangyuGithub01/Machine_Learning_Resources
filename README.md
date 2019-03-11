@@ -32,19 +32,20 @@
 - [经验误差与泛化误差、偏差与方差、欠拟合与过拟合、交叉验证](http://note.youdao.com/noteshare?id=b629383adb3b09eb31b754c337f690b5)
 
 #### （五）算法
-- [判别模型 vs 生成模型](https://www.zhihu.com/question/20446337)
-- [参数模型 vs 非参数模型](https://blog.csdn.net/sinat_27652257/article/details/80543604)
-- [参数估计 最大似然估计与贝叶斯估计](https://blog.csdn.net/bitcarmanlee/article/details/52201858)
-- [梯度下降法、牛顿法和拟牛顿法](https://zhuanlan.zhihu.com/p/37524275)
 - [LR优缺点](https://github.com/wangyuGithub01/Machine_Learning_Notes/blob/master/pdf/lr_pros_and_cons.md)
 - [SVM、logistic regression、linear regression对比](https://github.com/wangyuGithub01/Machine_Learning_Notes/blob/master/pdf/compare_svm_lr.md)
 - [SVM、LR详细对比](https://www.zhihu.com/search?type=content&q=LR%E5%92%8CSVM)
 - [浅谈最优化问题的KKT条件](https://zhuanlan.zhihu.com/p/26514613)
 - [逻辑回归与决策树在分类上的区别](https://blog.csdn.net/zhang15953709913/article/details/84841988)
-- [GBDT、XGBOOST、LightGBM (强推)](https://github.com/wangyuGithub01/Machine_Learning_Notes/blob/master/pdf/gbdt_wepon.pdf)
+- [GBDT、XGBOOST、LightGBM讲解(强烈推荐看一下)](https://github.com/wangyuGithub01/Machine_Learning_Notes/blob/master/pdf/gbdt_wepon.pdf)
 - [随机森林 GBDT  XGBOOST  LightGBM 比较](http://note.youdao.com/noteshare?id=65790e27fd5737155c31af2c05df8985)
 - [各种机器学习算法的应用场景](https://www.zhihu.com/question/26726794)
 
+#### （五）其他
+- [判别模型 vs 生成模型](https://www.zhihu.com/question/20446337)
+- [参数模型 vs 非参数模型](https://blog.csdn.net/sinat_27652257/article/details/80543604)
+- [参数估计 最大似然估计与贝叶斯估计](https://blog.csdn.net/bitcarmanlee/article/details/52201858)
+- [梯度下降法、牛顿法和拟牛顿法](https://zhuanlan.zhihu.com/p/37524275)
 
 ### 三、其他
 - [向量间距离度量方式](http://note.youdao.com/noteshare?id=ffba716f9f94f1cf3fac48fca300c198)
