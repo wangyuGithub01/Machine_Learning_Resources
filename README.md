@@ -61,6 +61,9 @@
 - [机器学习训练秘籍 (Andrew NG)](https://github.com/AcceptedDoge/machine-learning-yearning-cn)
 - [推荐系统实战](https://github.com/wangyuGithub01/E-book)
 
+### 五、推荐专栏
+- [王喆的机器学习专栏](https://zhuanlan.zhihu.com/wangzhenotes)：结合论文+工业界的应用，讲的很
+
 ### 机器学习面试问题汇总
 https://www.jianshu.com/p/0667fb49356d
 
