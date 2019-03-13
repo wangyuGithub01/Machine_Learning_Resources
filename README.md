@@ -13,8 +13,8 @@
 - [什么样的模型对缺失值更敏感？]()
 
 #### （三）特征选择
-- [过滤法、包装法、嵌入法](https://www.cnblogs.com/pinard/p/9032759.html) ([pdf版](https://github.com/wangyuGithub01/Machine_Learning_Notes/blob/master/pdf/feature_selection.pdf))
-- [Kaggle中的代码实战](https://www.kaggle.com/willkoehrsen/introduction-to-feature-selection) ([pdf版](https://github.com/wangyuGithub01/Machine_Learning_Notes/blob/master/pdf/feature_selection_kaggle.pdf))
+- [过滤法、包装法、嵌入法](https://www.cnblogs.com/pinard/p/9032759.html) % ([pdf版](https://github.com/wangyuGithub01/Machine_Learning_Notes/blob/master/pdf/feature_selection.pdf))
+- [Kaggle中的代码实战](https://www.kaggle.com/willkoehrsen/introduction-to-feature-selection) % ([pdf版](https://github.com/wangyuGithub01/Machine_Learning_Notes/blob/master/pdf/feature_selection_kaggle.pdf))
 
 ### 二、算法相关
 #### （一）评价指标
