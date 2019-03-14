@@ -49,10 +49,10 @@
 ### 三、其他
 - [向量间距离度量方式](http://note.youdao.com/noteshare?id=ffba716f9f94f1cf3fac48fca300c198)
 
-### 四、企业中的应用
-- [主流CTR预估模型的演化及对比](https://zhuanlan.zhihu.com/p/35465875)
-- [CTR预估模型中的特征自动组合机制演化 (FM \ IPNN \ DeepFM \ xDeepFM \ DCN)](https://yangxudong.github.io/xdeepfm/#espandi)
-- [CTR预估之GBDT+LR（经典）](https://zhuanlan.zhihu.com/p/57987311)
+### 四、推荐专栏
+- [美团技术团队](https://tech.meituan.com/tags/%E7%AE%97%E6%B3%95.html)
+- [华校专](http://huaxiaozhuan.com/)：基础算法讲解，多而全
+- [王喆的机器学习专栏](https://zhuanlan.zhihu.com/wangzhenotes)：结合论文+工业界的应用，讲的很清晰 
 
 
 ### 四、推荐书籍
@@ -61,10 +61,11 @@
 - [机器学习训练秘籍 (Andrew NG)](https://github.com/AcceptedDoge/machine-learning-yearning-cn)
 - [推荐系统实战](https://github.com/wangyuGithub01/E-book)
 
-### 五、推荐专栏
-- [华校专](http://huaxiaozhuan.com/)：基础算法讲解，多而全
-- [王喆的机器学习专栏](https://zhuanlan.zhihu.com/wangzhenotes)：结合论文+工业界的应用，讲的很清晰 
+### 五、企业中的应用
+- [主流CTR预估模型的演化及对比](https://zhuanlan.zhihu.com/p/35465875)
+- [CTR预估模型中的特征自动组合机制演化 (FM \ IPNN \ DeepFM \ xDeepFM \ DCN)](https://yangxudong.github.io/xdeepfm/#espandi)
+- [CTR预估之GBDT+LR（经典）](https://zhuanlan.zhihu.com/p/57987311)
 
-### 机器学习面试问题汇总
+### 机器学习面试问题汇总（牛客面经总结）
 https://www.jianshu.com/p/0667fb49356d
 
