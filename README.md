@@ -40,7 +40,7 @@
 - [随机森林 GBDT  XGBOOST  LightGBM 比较](http://note.youdao.com/noteshare?id=65790e27fd5737155c31af2c05df8985)
 - [各种机器学习算法的应用场景](https://www.zhihu.com/question/26726794)
 
-#### （五）其他
+#### （六）其他
 - [判别模型 vs 生成模型](https://www.zhihu.com/question/20446337)
 - [参数模型 vs 非参数模型](https://blog.csdn.net/sinat_27652257/article/details/80543604)
 - [参数估计 最大似然估计与贝叶斯估计](https://blog.csdn.net/bitcarmanlee/article/details/52201858)
@@ -61,7 +61,6 @@
 - [CTR预估模型中的特征自动组合机制演化 (FM \ IPNN \ DeepFM \ xDeepFM \ DCN)](https://yangxudong.github.io/xdeepfm/#espandi)
 - [CTR预估之GBDT+LR（经典）](https://zhuanlan.zhihu.com/p/57987311)
 - [从FM推演各深度学习CTR预估模型（附代码）](https://blog.csdn.net/han_xiaoyang/article/details/81031961)
-（二）
 
 
 ### 六、推荐书籍
