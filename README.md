@@ -55,18 +55,21 @@
 - [王喆的机器学习专栏](https://zhuanlan.zhihu.com/wangzhenotes)：结合论文+工业界的应用，讲的很清晰 
 - [计算广告小觑](https://blog.csdn.net/breada/article/details/50572914)
 
+### 五、应用
+（一）CTR预估
+    - [主流CTR预估模型的演化及对比](https://zhuanlan.zhihu.com/p/35465875)
+    - [CTR预估模型中的特征自动组合机制演化 (FM \ IPNN \ DeepFM \ xDeepFM \ DCN)](https://yangxudong.github.io/xdeepfm/#espandi)
+    - [CTR预估之GBDT+LR（经典）](https://zhuanlan.zhihu.com/p/57987311)
+    - [从FM推演各深度学习CTR预估模型（附代码）](https://blog.csdn.net/han_xiaoyang/article/details/81031961)
+（二）
 
-### 四、推荐书籍
+
+### 六、推荐书籍
 - [统计学习方法](https://github.com/wangyuGithub01/E-book/blob/master/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95(%E6%9D%8E%E8%88%AA).pdf) (注意这个pdf是第一版，其中的勘误可在[这里](https://github.com/wangyuGithub01/E-book/blob/master/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95%EF%BC%88%E5%8B%98%E8%AF%AF%EF%BC%89.pdf)查看)（[代码实现及ppt](https://github.com/fengdu78/lihang-code)）
 - [deeplearning.ai深度学习课程的中文笔记](https://github.com/fengdu78/deeplearning_ai_books)
 - [机器学习训练秘籍 (Andrew NG)](https://github.com/AcceptedDoge/machine-learning-yearning-cn)
 - [推荐系统实战](https://github.com/wangyuGithub01/E-book)
 
-### 五、企业中的应用
-- [主流CTR预估模型的演化及对比](https://zhuanlan.zhihu.com/p/35465875)
-- [CTR预估模型中的特征自动组合机制演化 (FM \ IPNN \ DeepFM \ xDeepFM \ DCN)](https://yangxudong.github.io/xdeepfm/#espandi)
-- [CTR预估之GBDT+LR（经典）](https://zhuanlan.zhihu.com/p/57987311)
-- [从FM推演各深度学习CTR预估模型（附代码）](https://blog.csdn.net/han_xiaoyang/article/details/81031961)
 
 
 ### 机器学习面试问题汇总（牛客面经总结）
