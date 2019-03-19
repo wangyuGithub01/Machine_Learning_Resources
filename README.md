@@ -53,6 +53,7 @@
 - [美团技术团队](https://tech.meituan.com/tags/%E7%AE%97%E6%B3%95.html)：美团的技术博客，新技术与实际应用相结合
 - [华校专](http://huaxiaozhuan.com/)：基础算法讲解，多而全
 - [王喆的机器学习专栏](https://zhuanlan.zhihu.com/wangzhenotes)：结合论文+工业界的应用，讲的很清晰 
+- [计算广告小觑](https://blog.csdn.net/breada/article/details/50572914)
 
 
 ### 四、推荐书籍
@@ -65,6 +66,8 @@
 - [主流CTR预估模型的演化及对比](https://zhuanlan.zhihu.com/p/35465875)
 - [CTR预估模型中的特征自动组合机制演化 (FM \ IPNN \ DeepFM \ xDeepFM \ DCN)](https://yangxudong.github.io/xdeepfm/#espandi)
 - [CTR预估之GBDT+LR（经典）](https://zhuanlan.zhihu.com/p/57987311)
+- [从FM推演各深度学习CTR预估模型（附代码）](https://blog.csdn.net/han_xiaoyang/article/details/81031961)
+
 
 ### 机器学习面试问题汇总（牛客面经总结）
 https://www.jianshu.com/p/0667fb49356d
