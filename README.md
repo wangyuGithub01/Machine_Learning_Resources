@@ -57,10 +57,10 @@
 
 ### 五、应用
 （一）CTR预估
-    - [主流CTR预估模型的演化及对比](https://zhuanlan.zhihu.com/p/35465875)
-    - [CTR预估模型中的特征自动组合机制演化 (FM \ IPNN \ DeepFM \ xDeepFM \ DCN)](https://yangxudong.github.io/xdeepfm/#espandi)
-    - [CTR预估之GBDT+LR（经典）](https://zhuanlan.zhihu.com/p/57987311)
-    - [从FM推演各深度学习CTR预估模型（附代码）](https://blog.csdn.net/han_xiaoyang/article/details/81031961)
+- [主流CTR预估模型的演化及对比](https://zhuanlan.zhihu.com/p/35465875)
+- [CTR预估模型中的特征自动组合机制演化 (FM \ IPNN \ DeepFM \ xDeepFM \ DCN)](https://yangxudong.github.io/xdeepfm/#espandi)
+- [CTR预估之GBDT+LR（经典）](https://zhuanlan.zhihu.com/p/57987311)
+- [从FM推演各深度学习CTR预估模型（附代码）](https://blog.csdn.net/han_xiaoyang/article/details/81031961)
 （二）
 
 
