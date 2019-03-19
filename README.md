@@ -68,6 +68,7 @@
 - [deeplearning.ai深度学习课程的中文笔记](https://github.com/fengdu78/deeplearning_ai_books)
 - [机器学习训练秘籍 (Andrew NG)](https://github.com/AcceptedDoge/machine-learning-yearning-cn)
 - [推荐系统实战](https://github.com/wangyuGithub01/E-book)
+- [北冥乘海生（计算广告一书的作者)](https://zhuanlan.zhihu.com/c_78909596)
 
 
 
