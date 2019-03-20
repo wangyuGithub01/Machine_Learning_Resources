@@ -81,4 +81,4 @@ https://www.jianshu.com/p/0667fb49356d
 ### 八、其他面试常问
 - [海量数据判重（基本上每次都会考一个海量数据问题）](https://www.nowcoder.com/discuss/153978)
 - [常考智力题](https://www.nowcoder.com/discuss/150434)
-- [蓄水池抽样](https://www.cnblogs.com/snowInPluto/p/5996269.html)
+- [蓄水池抽样（）](https://www.cnblogs.com/snowInPluto/p/5996269.html)
