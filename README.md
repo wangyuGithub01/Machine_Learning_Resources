@@ -34,11 +34,14 @@
 #### （五）算法
 - [LR优缺点](https://github.com/wangyuGithub01/Machine_Learning_Notes/blob/master/pdf/lr_pros_and_cons.md)
 - [SVM、logistic regression、linear regression对比](https://github.com/wangyuGithub01/Machine_Learning_Notes/blob/master/pdf/compare_svm_lr.md)
+- [LR和最大熵模型的关系]()
+- [最大熵和EM](https://www.cnblogs.com/fionacai/p/8324397.html)
 - [浅谈最优化问题的KKT条件](https://zhuanlan.zhihu.com/p/26514613)
 - [逻辑回归与决策树在分类上的区别](https://blog.csdn.net/zhang15953709913/article/details/84841988)
 - [GBDT、XGBOOST、LightGBM讲解(强烈推荐看一下)](https://github.com/wangyuGithub01/Machine_Learning_Notes/blob/master/pdf/gbdt_wepon.pdf)
 - [随机森林 GBDT  XGBOOST  LightGBM 比较](http://note.youdao.com/noteshare?id=65790e27fd5737155c31af2c05df8985)
 - [各种机器学习算法的应用场景](https://www.zhihu.com/question/26726794)
+
 
 #### （六）其他
 - [判别模型 vs 生成模型](https://www.zhihu.com/question/20446337)
