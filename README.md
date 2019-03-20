@@ -83,4 +83,5 @@ https://www.jianshu.com/p/0667fb49356d
 - [常考智力题](https://www.nowcoder.com/discuss/150434)
 - [蓄水池抽样（数据流中随机采样）](https://www.cnblogs.com/snowInPluto/p/5996269.html)
 - [等概率无重复的从n个数中选取m个数](https://blog.csdn.net/yusiguyuan/article/details/42607681)
-
+- [两个小孩，已知其中一个为女，求另一个也是女的概率？](https://www.zhihu.com/question/31140434)
+- [rand(5)生成rand(7)](https://blog.csdn.net/u010025211/article/details/49668017)
