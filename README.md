@@ -10,7 +10,7 @@
 #### （二）特征表达
 - [缺失值、特殊特征(eg.时间)、离散特征、连续特征](https://www.cnblogs.com/pinard/p/9061549.html)
 - [连续特征离散化的好处](http://note.youdao.com/noteshare?id=024fa3dbabf4b5a07eb72c8021e60f62)
-- [什么样的模型对缺失值更敏感？]()
+- [什么样的模型对缺失值更敏感？](https://blog.csdn.net/zhang15953709913/article/details/88717220)
 
 #### （三）特征选择
 - [过滤法、包装法、嵌入法](https://www.cnblogs.com/pinard/p/9032759.html) 
@@ -48,6 +48,7 @@
 - [参数模型 vs 非参数模型](https://blog.csdn.net/sinat_27652257/article/details/80543604)
 - [参数估计 最大似然估计与贝叶斯估计](https://blog.csdn.net/bitcarmanlee/article/details/52201858)
 - [梯度下降法、牛顿法和拟牛顿法](https://zhuanlan.zhihu.com/p/37524275)
+- [最小二乘法 和 最大似然估计](https://blog.csdn.net/zhang15953709913/article/details/88716699)
 
 ### 三、其他
 - [向量间距离度量方式](http://note.youdao.com/noteshare?id=ffba716f9f94f1cf3fac48fca300c198)
