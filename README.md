@@ -37,8 +37,6 @@
   - [SVM、logistic regression、linear regression对比](https://github.com/wangyuGithub01/Machine_Learning_Notes/blob/master/pdf/compare_svm_lr.md)
   - [LR和最大熵模型的关系](https://blog.csdn.net/dp_BUPT/article/details/50568392)
   - [为什么LR要用对数似然，而不是平方损失？](https://blog.csdn.net/zhang15953709913/article/details/88717326)
-  - [最大熵和EM](https://www.cnblogs.com/fionacai/p/8324397.html)
-  - [浅谈最优化问题的KKT条件](https://zhuanlan.zhihu.com/p/26514613)
 2. 树模型
 - [逻辑回归与决策树在分类上的区别](https://blog.csdn.net/zhang15953709913/article/details/84841988)
 - [GBDT、XGBOOST、LightGBM讲解(强烈推荐看一下)](https://github.com/wangyuGithub01/Machine_Learning_Notes/blob/master/pdf/gbdt_wepon.pdf)
@@ -53,7 +51,9 @@
 - [参数模型 vs 非参数模型](https://blog.csdn.net/sinat_27652257/article/details/80543604)
 - [参数估计 最大似然估计与贝叶斯估计](https://blog.csdn.net/bitcarmanlee/article/details/52201858)
 - [梯度下降法、牛顿法和拟牛顿法](https://zhuanlan.zhihu.com/p/37524275)
-- [最小二乘法 和 最大似然估计](https://blog.csdn.net/zhang15953709913/article/details/88716699)
+- [最小二乘法 和 最大似然估计的对比联系](https://blog.csdn.net/zhang15953709913/article/details/88716699)
+- [最大似然估计 和 EM](https://blog.csdn.net/zouxy09/article/details/8537620)
+- [浅谈最优化问题的KKT条件](https://zhuanlan.zhihu.com/p/26514613)
 
 ### 三、其他
 - [向量间距离度量方式](http://note.youdao.com/noteshare?id=ffba716f9f94f1cf3fac48fca300c198)
