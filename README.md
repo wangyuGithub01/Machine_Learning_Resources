@@ -32,7 +32,7 @@
 - [经验误差与泛化误差、偏差与方差、欠拟合与过拟合、交叉验证](http://note.youdao.com/noteshare?id=b629383adb3b09eb31b754c337f690b5)
 
 #### （五）机器学习算法
--（1）线性回归、逻辑回归、SVM
+1. 线性回归、逻辑回归、SVM
   - [LR优缺点](https://github.com/wangyuGithub01/Machine_Learning_Notes/blob/master/pdf/lr_pros_and_cons.md)
   - [SVM、logistic regression、linear regression对比](https://github.com/wangyuGithub01/Machine_Learning_Notes/blob/master/pdf/compare_svm_lr.md)
   - [LR和最大熵模型的关系](https://blog.csdn.net/dp_BUPT/article/details/50568392)
