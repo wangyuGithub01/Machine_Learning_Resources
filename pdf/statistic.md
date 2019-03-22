@@ -5,3 +5,6 @@
 - [两个小孩，已知其中一个为女，求另一个也是女的概率？](https://www.zhihu.com/question/31140434)
 - [rand(5)生成rand(7)](https://blog.csdn.net/u010025211/article/details/49668017)
 - [一个骰子，每个面至少被投出一次需要投多少次？](https://www.zhihu.com/question/40320381)
+- [13个人生日都不是同一天的概率]()
+- [甲乙轮流抛硬币，正面胜，先抛的人优势多大？](https://www.zhihu.com/question/290055193)
+- []()
