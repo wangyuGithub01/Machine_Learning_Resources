@@ -55,6 +55,9 @@
 - [最大似然估计 和 EM](https://blog.csdn.net/zouxy09/article/details/8537620)
 - [浅谈最优化问题的KKT条件](https://zhuanlan.zhihu.com/p/26514613)
 
+#### （七）NLP相关
+- [nlp中的词向量对比：word2vec/glove/fastText/elmo/GPT/bert](https://zhuanlan.zhihu.com/p/56382372)
+
 ### 三、其他
 - [向量间距离度量方式](http://note.youdao.com/noteshare?id=ffba716f9f94f1cf3fac48fca300c198)
 
