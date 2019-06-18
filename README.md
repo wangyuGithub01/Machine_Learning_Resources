@@ -57,6 +57,7 @@
 
 #### （七）NLP相关
 - [nlp中的词向量对比：word2vec/glove/fastText/elmo/GPT/bert](https://zhuanlan.zhihu.com/p/56382372)
+- [【NLP/AI算法面试必备-2】NLP/AI面试全记录](https://zhuanlan.zhihu.com/p/57153934)
 
 ### 三、其他
 - [向量间距离度量方式](http://note.youdao.com/noteshare?id=ffba716f9f94f1cf3fac48fca300c198)
