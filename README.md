@@ -77,8 +77,8 @@
 - [北冥乘海生（计算广告一书的作者)](https://zhuanlan.zhihu.com/c_78909596)
 - [计算广告小觑](https://blog.csdn.net/breada/article/details/50572914)
 
-### 六、机器学习面试问题汇总（牛客面经总结）
-https://www.nowcoder.com/discuss/165930
+### 六、机器学习面试问题汇总
+- [牛客网面经总结](https://www.nowcoder.com/discuss/165930)
 
 ### 七、其他面试常考
 - [海量数据判重](https://www.nowcoder.com/discuss/153978)
