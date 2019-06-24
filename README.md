@@ -70,6 +70,7 @@
 - [推荐系统实战](https://github.com/wangyuGithub01/E-book)
 
 ### 五、推荐专栏
+- [刘建平Pinard](https://www.cnblogs.com/pinard/)：很多高质量文章
 - [美团技术团队](https://tech.meituan.com/tags/%E7%AE%97%E6%B3%95.html)：美团的技术博客，新技术与实际应用相结合
 - [华校专](http://huaxiaozhuan.com/)：基础算法讲解，多而全
 - [王喆的机器学习专栏](https://zhuanlan.zhihu.com/wangzhenotes)：结合论文+工业界的应用，讲的很清晰 
