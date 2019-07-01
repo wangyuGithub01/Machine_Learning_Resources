@@ -45,7 +45,6 @@
 3. 其他
 - [各种机器学习算法的应用场景](https://www.zhihu.com/question/26726794)
 
-
 #### （六）其他
 - [判别模型 vs 生成模型](https://www.zhihu.com/question/20446337)
 - [参数模型 vs 非参数模型](https://blog.csdn.net/sinat_27652257/article/details/80543604)
@@ -76,6 +75,7 @@
 - [王喆的机器学习专栏](https://zhuanlan.zhihu.com/wangzhenotes)：结合论文+工业界的应用，讲的很清晰 
 - [北冥乘海生（计算广告一书的作者)](https://zhuanlan.zhihu.com/c_78909596)
 - [计算广告小觑](https://blog.csdn.net/breada/article/details/50572914)
+- [深度学习前沿笔记](https://zhuanlan.zhihu.com/c_188941548)：NLP相关较多，预训练技术讲解的多
 
 ### 六、机器学习面试问题汇总
 - [牛客网面经总结](https://www.nowcoder.com/discuss/165930)
