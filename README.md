@@ -45,7 +45,11 @@
 3. 其他
 - [各种机器学习算法的应用场景](https://www.zhihu.com/question/26726794)
 
-#### （六）其他
+#### （六）NLP相关
+- [nlp中的词向量对比：word2vec/glove/fastText/elmo/GPT/bert](https://zhuanlan.zhihu.com/p/56382372)
+- [【NLP/AI算法面试必备-2】NLP/AI面试全记录](https://zhuanlan.zhihu.com/p/57153934)
+
+#### （七）其他
 - [判别模型 vs 生成模型](https://www.zhihu.com/question/20446337)
 - [参数模型 vs 非参数模型](https://blog.csdn.net/sinat_27652257/article/details/80543604)
 - [参数估计 最大似然估计与贝叶斯估计](https://blog.csdn.net/bitcarmanlee/article/details/52201858)
@@ -53,10 +57,6 @@
 - [最小二乘法 和 最大似然估计的对比联系](https://blog.csdn.net/zhang15953709913/article/details/88716699)
 - [最大似然估计 和 EM](https://blog.csdn.net/zouxy09/article/details/8537620)
 - [浅谈最优化问题的KKT条件](https://zhuanlan.zhihu.com/p/26514613)
-
-#### （七）NLP相关
-- [nlp中的词向量对比：word2vec/glove/fastText/elmo/GPT/bert](https://zhuanlan.zhihu.com/p/56382372)
-- [【NLP/AI算法面试必备-2】NLP/AI面试全记录](https://zhuanlan.zhihu.com/p/57153934)
 
 ### 三、其他
 - [向量间距离度量方式](http://note.youdao.com/noteshare?id=ffba716f9f94f1cf3fac48fca300c198)
@@ -77,7 +77,7 @@
 - [计算广告小觑](https://blog.csdn.net/breada/article/details/50572914)
 - [深度学习前沿笔记](https://zhuanlan.zhihu.com/c_188941548)：NLP相关较多，预训练技术讲解的多
 
-### 六、机器学习面试问题汇总
+### 六、面试问题汇总
 - [牛客网面经总结](https://www.nowcoder.com/discuss/165930)
 
 ### 七、其他面试常考
