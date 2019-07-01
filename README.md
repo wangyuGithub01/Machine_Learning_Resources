@@ -73,7 +73,7 @@
 - [美团技术团队](https://tech.meituan.com/tags/%E7%AE%97%E6%B3%95.html)：美团的技术博客，新技术与实际应用相结合
 - [华校专](http://huaxiaozhuan.com/)：基础算法讲解，多而全
 - [王喆的机器学习专栏](https://zhuanlan.zhihu.com/wangzhenotes)：结合论文+工业界的应用，讲的很清晰 
-- [北冥乘海生（计算广告一书的作者)](https://zhuanlan.zhihu.com/c_78909596)
+- [北冥乘海生](https://zhuanlan.zhihu.com/c_78909596)：计算广告一书的作者
 - [计算广告小觑](https://blog.csdn.net/breada/article/details/50572914)
 - [深度学习前沿笔记](https://zhuanlan.zhihu.com/c_188941548)：NLP相关较多，预训练技术讲解的多
 
