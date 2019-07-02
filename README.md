@@ -60,6 +60,8 @@
 - [最小二乘法 和 最大似然估计的对比联系](https://blog.csdn.net/zhang15953709913/article/details/88716699)
 - [最大似然估计 和 EM](https://blog.csdn.net/zouxy09/article/details/8537620)
 - [浅谈最优化问题的KKT条件](https://zhuanlan.zhihu.com/p/26514613)
+- [交叉熵](https://colah.github.io/posts/2015-09-Visual-Information/)
+- [KL散度](https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained)
 
 ### 三、其他
 - [向量间距离度量方式](http://note.youdao.com/noteshare?id=ffba716f9f94f1cf3fac48fca300c198)
