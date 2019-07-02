@@ -49,7 +49,6 @@
 - [Transformer](https://zhuanlan.zhihu.com/p/54356280)
 - [Bert / Elmo](http://www.sohu.com/a/281795578_473283)
 - [XLNet](https://zhuanlan.zhihu.com/p/70257427)
-
 - [nlp中的词向量对比：word2vec/glove/fastText/elmo/GPT/bert](https://zhuanlan.zhihu.com/p/56382372)
 - [NLP/AI面试全记录](https://zhuanlan.zhihu.com/p/57153934)
 
