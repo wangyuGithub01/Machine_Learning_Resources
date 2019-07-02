@@ -46,8 +46,12 @@
 - [各种机器学习算法的应用场景](https://www.zhihu.com/question/26726794)
 
 #### （六）NLP相关
+- [Transformer](https://zhuanlan.zhihu.com/p/54356280)
+- [Bert / Elmo](http://www.sohu.com/a/281795578_473283)
+- [XLNet](https://zhuanlan.zhihu.com/p/70257427)
+
 - [nlp中的词向量对比：word2vec/glove/fastText/elmo/GPT/bert](https://zhuanlan.zhihu.com/p/56382372)
-- [【NLP/AI算法面试必备-2】NLP/AI面试全记录](https://zhuanlan.zhihu.com/p/57153934)
+- [NLP/AI面试全记录](https://zhuanlan.zhihu.com/p/57153934)
 
 #### （七）其他
 - [判别模型 vs 生成模型](https://www.zhihu.com/question/20446337)
