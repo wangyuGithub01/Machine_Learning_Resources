@@ -46,6 +46,8 @@
 - [各种机器学习算法的应用场景](https://www.zhihu.com/question/26726794)
 
 #### （六）NLP相关
+- [word2vec]()
+- [fasttext](https://zhuanlan.zhihu.com/p/32965521)
 - [Transformer](https://zhuanlan.zhihu.com/p/54356280)
 - [Bert / Elmo](http://www.sohu.com/a/281795578_473283)
 - [XLNet](https://zhuanlan.zhihu.com/p/70257427)
