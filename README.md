@@ -70,7 +70,6 @@
 
 ### 四、推荐书籍/笔记/代码实现
 - [统计学习方法](https://github.com/wangyuGithub01/E-book/blob/master/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95(%E6%9D%8E%E8%88%AA).pdf) (注意这个pdf是第一版，其中的勘误可在[这里](https://github.com/wangyuGithub01/E-book/blob/master/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95%EF%BC%88%E5%8B%98%E8%AF%AF%EF%BC%89.pdf)查看)（[代码实现及ppt](https://github.com/fengdu78/lihang-code)）
-- [深度学习500问](https://github.com/scutan90/DeepLearning-500-questions)
 - [西瓜书的公式推导细节解析](https://datawhalechina.github.io/pumpkin-book/#/)
 - [deeplearning.ai深度学习课程的中文笔记](https://github.com/fengdu78/deeplearning_ai_books)
 - [机器学习训练秘籍 (Andrew NG)](https://github.com/AcceptedDoge/machine-learning-yearning-cn)
