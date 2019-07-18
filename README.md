@@ -56,7 +56,7 @@
 
 #### （七）其他
 - [判别模型 vs 生成模型](https://www.zhihu.com/question/20446337)
-- [参数模型 vs 非参数模型](https://blog.csdn.net/sinat_27652257/article/details/80543604)
+- [参数模型 vs 非参数模型](https://zhuanlan.zhihu.com/p/26012348)
 - [参数估计 最大似然估计与贝叶斯估计](https://blog.csdn.net/bitcarmanlee/article/details/52201858)
 - [梯度下降法、牛顿法和拟牛顿法](https://zhuanlan.zhihu.com/p/37524275)
 - [最小二乘法 和 最大似然估计的对比联系](https://blog.csdn.net/zhang15953709913/article/details/88716699)
