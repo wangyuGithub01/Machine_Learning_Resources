@@ -55,8 +55,9 @@
 - [nlp中的词向量对比：word2vec/glove/fastText/elmo/GPT/bert](https://zhuanlan.zhihu.com/p/56382372)
 - [NLP/AI面试全记录](https://zhuanlan.zhihu.com/p/57153934)
 
-#### （七）CTR预估相关
-- [FM算法](https://zhuanlan.zhihu.com/p/37963267)
+#### （七）CTR预估 & 推荐系统 相关
+- [FM算法](https://zhuanlan.zhihu.com/p/37963267):讲的蛮细的
+- [FM算法结合推荐系统的讲解](https://zhuanlan.zhihu.com/p/58160982)
 
 #### （八）其他
 - [判别模型 vs 生成模型](https://www.zhihu.com/question/20446337)
