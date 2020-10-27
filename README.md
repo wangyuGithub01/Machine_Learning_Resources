@@ -55,7 +55,10 @@
 - [nlp中的词向量对比：word2vec/glove/fastText/elmo/GPT/bert](https://zhuanlan.zhihu.com/p/56382372)
 - [NLP/AI面试全记录](https://zhuanlan.zhihu.com/p/57153934)
 
-#### （七）其他
+#### （七）CTR预估相关
+- [FM算法](https://zhuanlan.zhihu.com/p/37963267)
+
+#### （八）其他
 - [判别模型 vs 生成模型](https://www.zhihu.com/question/20446337)
 - [参数模型 vs 非参数模型](https://zhuanlan.zhihu.com/p/26012348)
 - [参数估计 最大似然估计与贝叶斯估计](https://blog.csdn.net/bitcarmanlee/article/details/52201858)
