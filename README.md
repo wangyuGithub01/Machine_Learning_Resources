@@ -84,11 +84,12 @@
 ### 五、推荐专栏
 - [刘建平Pinard](https://www.cnblogs.com/pinard/)：很多高质量文章
 - [美团技术团队](https://tech.meituan.com/tags/%E7%AE%97%E6%B3%95.html)：美团的技术博客，新技术与实际应用相结合
-- [华校专](http://huaxiaozhuan.com/)：基础算法讲解，多而全
-- [王喆的机器学习专栏](https://zhuanlan.zhihu.com/wangzhenotes)：结合论文+工业界的应用，讲的很清晰 
-- [北冥乘海生](https://zhuanlan.zhihu.com/c_78909596)：计算广告一书的作者
+- [华校专](http://huaxiaozhuan.com/)：基础算法讲解，多而全（其实还没怎么看
+- [王喆的机器学习专栏](https://zhuanlan.zhihu.com/wangzhenotes)：结合论文+工业界的推荐应用，讲的很清晰 
+- [北冥乘海生](https://zhuanlan.zhihu.com/c_78909596)：计算广告一书的作者（好像不怎么更新了
 - [计算广告小觑](https://blog.csdn.net/breada/article/details/50572914)
 - [深度学习前沿笔记](https://zhuanlan.zhihu.com/c_188941548)：NLP相关较多，预训练技术讲解的多
+- [荐道馆](https://www.zhihu.com/column/learningdeep)：讲推荐相关，文章写的比较透
 
 ### 六、面试问题汇总
 - [牛客网面经总结](https://www.nowcoder.com/discuss/165930)
