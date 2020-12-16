@@ -31,6 +31,13 @@
 #### （四）模型训练
 - [经验误差与泛化误差、偏差与方差、欠拟合与过拟合、交叉验证](http://note.youdao.com/noteshare?id=b629383adb3b09eb31b754c337f690b5)
 
+#### （五）优化算法
+- [梯度下降法、牛顿法和拟牛顿法](https://zhuanlan.zhihu.com/p/37524275)
+- [最小二乘法 和 最大似然估计的对比联系](https://blog.csdn.net/zhang15953709913/article/details/88716699)
+- [最大似然估计 和 EM](https://blog.csdn.net/zouxy09/article/details/8537620)
+- [浅谈最优化问题的KKT条件](https://zhuanlan.zhihu.com/p/26514613)
+- [在线最优化求解 Online Optimization](https://github.com/wzhe06/Ad-papers/blob/master/Optimization%20Method/%E5%9C%A8%E7%BA%BF%E6%9C%80%E4%BC%98%E5%8C%96%E6%B1%82%E8%A7%A3%28Online%20Optimization%29-%E5%86%AF%E6%89%AC.pdf)
+
 #### （五）机器学习算法
 1. 线性回归、逻辑回归、SVM
   - [LR优缺点](https://github.com/wangyuGithub01/Machine_Learning_Notes/blob/master/pdf/lr_pros_and_cons.md)
@@ -66,10 +73,6 @@
 - [判别模型 vs 生成模型](https://www.zhihu.com/question/20446337)
 - [参数模型 vs 非参数模型](https://zhuanlan.zhihu.com/p/26012348)
 - [参数估计 最大似然估计与贝叶斯估计](https://blog.csdn.net/bitcarmanlee/article/details/52201858)
-- [梯度下降法、牛顿法和拟牛顿法](https://zhuanlan.zhihu.com/p/37524275)
-- [最小二乘法 和 最大似然估计的对比联系](https://blog.csdn.net/zhang15953709913/article/details/88716699)
-- [最大似然估计 和 EM](https://blog.csdn.net/zouxy09/article/details/8537620)
-- [浅谈最优化问题的KKT条件](https://zhuanlan.zhihu.com/p/26514613)
 - [交叉熵](https://colah.github.io/posts/2015-09-Visual-Information/)
 - [KL散度](https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained)
 
@@ -92,6 +95,7 @@
 - [计算广告小觑](https://blog.csdn.net/breada/article/details/50572914)
 - [深度学习前沿笔记](https://zhuanlan.zhihu.com/c_188941548)：NLP相关较多，预训练技术讲解的多
 - [荐道馆](https://www.zhihu.com/column/learningdeep)：讲推荐相关，文章写的比较透
+- [计算广告论文、学习资料、业界分享](https://github.com/wzhe06/Ad-papers)
 
 ### 六、面试问题汇总
 - [牛客网面经总结](https://www.nowcoder.com/discuss/165930)
