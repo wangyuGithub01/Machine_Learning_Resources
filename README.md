@@ -37,6 +37,7 @@
   - [SVM、logistic regression、linear regression对比](https://github.com/wangyuGithub01/Machine_Learning_Notes/blob/master/pdf/compare_svm_lr.md)
   - [LR和最大熵模型的关系](https://blog.csdn.net/dp_BUPT/article/details/50568392)
   - [为什么LR要用对数似然，而不是平方损失？](https://blog.csdn.net/zhang15953709913/article/details/88717326)
+  - [似然函数](https://zh.wikipedia.org/wiki/%E4%BC%BC%E7%84%B6%E5%87%BD%E6%95%B0)
 2. 树模型
 - [逻辑回归与决策树在分类上的区别](https://blog.csdn.net/zhang15953709913/article/details/84841988)
 - [回归树、提升树、GBDT](https://www.jianshu.com/p/005a4e6ac775)
@@ -57,6 +58,7 @@
 - [NLP/AI面试全记录](https://zhuanlan.zhihu.com/p/57153934)
 
 #### （七）CTR预估 & 推荐系统 相关
+- [LR & FTRL](https://zhuanlan.zhihu.com/p/55135954)
 - [FM算法](https://zhuanlan.zhihu.com/p/37963267):讲的蛮细的
 - [FM算法结合推荐系统的讲解](https://zhuanlan.zhihu.com/p/58160982)
 
