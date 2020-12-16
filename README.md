@@ -16,7 +16,7 @@
 - [过滤法、包装法、嵌入法](https://www.cnblogs.com/pinard/p/9032759.html) 
 - [Kaggle中的代码实战](https://www.kaggle.com/willkoehrsen/introduction-to-feature-selection)
 
-### 二、算法相关
+### 二、算法基础
 #### （一）评价指标
 - [PR曲线和F1 & ROC曲线和AUC](http://note.youdao.com/noteshare?id=13d31b4a7dc317b3d4abd18bf42a74df)
 
@@ -36,9 +36,16 @@
 - [最小二乘法 和 最大似然估计的对比联系](https://blog.csdn.net/zhang15953709913/article/details/88716699)
 - [最大似然估计 和 EM](https://blog.csdn.net/zouxy09/article/details/8537620)
 - [浅谈最优化问题的KKT条件](https://zhuanlan.zhihu.com/p/26514613)
-- [在线最优化求解 Online Optimization](https://github.com/wzhe06/Ad-papers/blob/master/Optimization%20Method/%E5%9C%A8%E7%BA%BF%E6%9C%80%E4%BC%98%E5%8C%96%E6%B1%82%E8%A7%A3%28Online%20Optimization%29-%E5%86%AF%E6%89%AC.pdf)
 
-#### （五）机器学习算法
+#### （六）其他知识点
+- [判别模型 vs 生成模型](https://www.zhihu.com/question/20446337)
+- [参数模型 vs 非参数模型](https://zhuanlan.zhihu.com/p/26012348)
+- [参数估计 最大似然估计与贝叶斯估计](https://blog.csdn.net/bitcarmanlee/article/details/52201858)
+- [交叉熵](https://colah.github.io/posts/2015-09-Visual-Information/)
+- [KL散度](https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained)
+- [向量间距离度量方式](http://note.youdao.com/noteshare?id=ffba716f9f94f1cf3fac48fca300c198)
+
+### 三、机器学习算法
 1. 线性回归、逻辑回归、SVM
   - [LR优缺点](https://github.com/wangyuGithub01/Machine_Learning_Notes/blob/master/pdf/lr_pros_and_cons.md)
   - [SVM、logistic regression、linear regression对比](https://github.com/wangyuGithub01/Machine_Learning_Notes/blob/master/pdf/compare_svm_lr.md)
@@ -54,7 +61,7 @@
 3. 其他
 - [各种机器学习算法的应用场景](https://www.zhihu.com/question/26726794)
 
-#### （六）NLP相关
+### 四、NLP相关
 - [word2vec]()
 - [fasttext](https://zhuanlan.zhihu.com/p/32965521)
 - [Transformer](https://zhuanlan.zhihu.com/p/54356280)
@@ -64,29 +71,20 @@
 - [nlp中的词向量对比：word2vec/glove/fastText/elmo/GPT/bert](https://zhuanlan.zhihu.com/p/56382372)
 - [NLP/AI面试全记录](https://zhuanlan.zhihu.com/p/57153934)
 
-#### （七）CTR预估 & 推荐系统 相关
+#### 五、推荐系统 & 计算广告 相关
 - [LR & FTRL](https://zhuanlan.zhihu.com/p/55135954)
 - [FM算法](https://zhuanlan.zhihu.com/p/37963267):讲的蛮细的
 - [FM算法结合推荐系统的讲解](https://zhuanlan.zhihu.com/p/58160982)
+- [在线最优化求解 Online Optimization](https://github.com/wzhe06/Ad-papers/blob/master/Optimization%20Method/%E5%9C%A8%E7%BA%BF%E6%9C%80%E4%BC%98%E5%8C%96%E6%B1%82%E8%A7%A3%28Online%20Optimization%29-%E5%86%AF%E6%89%AC.pdf)
 
-#### （八）其他
-- [判别模型 vs 生成模型](https://www.zhihu.com/question/20446337)
-- [参数模型 vs 非参数模型](https://zhuanlan.zhihu.com/p/26012348)
-- [参数估计 最大似然估计与贝叶斯估计](https://blog.csdn.net/bitcarmanlee/article/details/52201858)
-- [交叉熵](https://colah.github.io/posts/2015-09-Visual-Information/)
-- [KL散度](https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained)
-
-### 三、其他
-- [向量间距离度量方式](http://note.youdao.com/noteshare?id=ffba716f9f94f1cf3fac48fca300c198)
-
-### 四、推荐书籍/笔记/代码实现
+### 六、推荐书籍/笔记/代码实现
 - [统计学习方法](https://github.com/wangyuGithub01/E-book/blob/master/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95(%E6%9D%8E%E8%88%AA).pdf) (注意这个pdf是第一版，其中的勘误可在[这里](https://github.com/wangyuGithub01/E-book/blob/master/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95%EF%BC%88%E5%8B%98%E8%AF%AF%EF%BC%89.pdf)查看)（[代码实现及ppt](https://github.com/fengdu78/lihang-code)）
 - [西瓜书的公式推导细节解析](https://datawhalechina.github.io/pumpkin-book/#/)
 - [deeplearning.ai深度学习课程的中文笔记](https://github.com/fengdu78/deeplearning_ai_books)
 - [机器学习训练秘籍 (Andrew NG)](https://github.com/AcceptedDoge/machine-learning-yearning-cn)
 - [推荐系统实战](https://github.com/wangyuGithub01/E-book)
 
-### 五、推荐专栏
+### 七、推荐专栏
 - [刘建平Pinard](https://www.cnblogs.com/pinard/)：很多高质量文章
 - [美团技术团队](https://tech.meituan.com/tags/%E7%AE%97%E6%B3%95.html)：美团的技术博客，新技术与实际应用相结合
 - [华校专](http://huaxiaozhuan.com/)：基础算法讲解，多而全（其实还没怎么看
@@ -97,10 +95,10 @@
 - [荐道馆](https://www.zhihu.com/column/learningdeep)：讲推荐相关，文章写的比较透
 - [计算广告论文、学习资料、业界分享](https://github.com/wzhe06/Ad-papers)
 
-### 六、面试问题汇总
+### 八、面试问题汇总
 - [牛客网面经总结](https://www.nowcoder.com/discuss/165930)
 
-### 七、其他面试常考
+### 九、其他面试常考
 - [海量数据判重](https://www.nowcoder.com/discuss/153978)
 - [常考智力题/逻辑题](https://github.com/wangyuGithub01/Machine_Learning_Resources/blob/master/pdf/IQ.md)
 - [常考概率题](https://github.com/wangyuGithub01/Machine_Learning_Resources/blob/master/pdf/statistic.md)
