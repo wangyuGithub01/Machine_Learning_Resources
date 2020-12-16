@@ -71,7 +71,7 @@
 - [nlp中的词向量对比：word2vec/glove/fastText/elmo/GPT/bert](https://zhuanlan.zhihu.com/p/56382372)
 - [NLP/AI面试全记录](https://zhuanlan.zhihu.com/p/57153934)
 
-#### 五、推荐系统 & 计算广告 相关
+### 五、推荐系统 & 计算广告 相关
 - [LR & FTRL](https://zhuanlan.zhihu.com/p/55135954)
 - [FM算法](https://zhuanlan.zhihu.com/p/37963267):讲的蛮细的
 - [FM算法结合推荐系统的讲解](https://zhuanlan.zhihu.com/p/58160982)
