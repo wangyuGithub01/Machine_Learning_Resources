@@ -19,6 +19,7 @@
 ### 二、算法基础
 #### （一）评价指标
 - [PR曲线和F1 & ROC曲线和AUC](http://note.youdao.com/noteshare?id=13d31b4a7dc317b3d4abd18bf42a74df)
+- [AUC & GAUC](https://zhuanlan.zhihu.com/p/84350940)
 
 #### （二）正则项
 - [正则化与数据先验分布的关系](http://note.youdao.com/noteshare?id=2851b97199bcdc174001d72b1bec0372)
