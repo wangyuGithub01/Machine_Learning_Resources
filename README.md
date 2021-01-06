@@ -45,6 +45,7 @@
 - [交叉熵](https://colah.github.io/posts/2015-09-Visual-Information/)
 - [KL散度](https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained)
 - [向量间距离度量方式](http://note.youdao.com/noteshare?id=ffba716f9f94f1cf3fac48fca300c198)
+- [余弦距离和欧氏距离的转换](https://www.zhihu.com/question/19640394/answer/207795500)
 
 ### 三、机器学习算法
 1. 线性回归、逻辑回归、SVM
