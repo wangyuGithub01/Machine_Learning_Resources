@@ -40,6 +40,7 @@
 - [浅谈最优化问题的KKT条件](https://zhuanlan.zhihu.com/p/26514613)
 
 #### （六）其他知识点
+- [先验概率 & 后验概率](https://zhuanlan.zhihu.com/p/38567891)
 - [判别模型 vs 生成模型](https://www.zhihu.com/question/20446337)
 - [参数模型 vs 非参数模型](https://zhuanlan.zhihu.com/p/26012348)
 - [参数估计 最大似然估计与贝叶斯估计](https://blog.csdn.net/bitcarmanlee/article/details/52201858)
