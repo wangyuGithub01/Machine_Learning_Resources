@@ -26,8 +26,7 @@
 - [L1在0点处不可导怎么办？](http://www.cnblogs.com/pinard/p/6018889.html)可采用坐标轴下降、最小角回归法
 
 #### （三）损失函数
-- [常见回归和分类损失函数比较
-](http://note.youdao.com/noteshare?id=070ef1d6687a15dc2747cb094e005ea4)
+- [常见损失函数](https://zhuanlan.zhihu.com/p/58883095)
 
 #### （四）模型训练
 - [经验误差与泛化误差、偏差与方差、欠拟合与过拟合、交叉验证](http://note.youdao.com/noteshare?id=b629383adb3b09eb31b754c337f690b5)
