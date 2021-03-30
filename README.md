@@ -27,6 +27,7 @@
 
 #### （三）损失函数
 - [常见损失函数](https://zhuanlan.zhihu.com/p/58883095)
+- [常见损失函数2](https://zhuanlan.zhihu.com/p/77686118)
 
 #### （四）模型训练
 - [经验误差与泛化误差、偏差与方差、欠拟合与过拟合、交叉验证](http://note.youdao.com/noteshare?id=b629383adb3b09eb31b754c337f690b5)
