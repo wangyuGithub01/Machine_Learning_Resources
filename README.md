@@ -53,6 +53,7 @@
 1. 线性回归、逻辑回归、SVM
   - [LR优缺点](https://github.com/wangyuGithub01/Machine_Learning_Notes/blob/master/pdf/lr_pros_and_cons.md)
   - [SVM、logistic regression、linear regression对比](https://github.com/wangyuGithub01/Machine_Learning_Notes/blob/master/pdf/compare_svm_lr.md)
+  - [KNN vs K-Means](https://zhuanlan.zhihu.com/p/31580379)
   - [LR和最大熵模型的关系](https://blog.csdn.net/dp_BUPT/article/details/50568392)
   - [为什么LR要用对数似然，而不是平方损失？](https://blog.csdn.net/zhang15953709913/article/details/88717326)
   - [似然函数](https://zh.wikipedia.org/wiki/%E4%BC%BC%E7%84%B6%E5%87%BD%E6%95%B0)
