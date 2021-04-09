@@ -38,6 +38,7 @@
 - [最小二乘法 和 最大似然估计的对比联系](https://blog.csdn.net/zhang15953709913/article/details/88716699)
 - [最大似然估计 和 EM](https://blog.csdn.net/zouxy09/article/details/8537620)
 - [浅谈最优化问题的KKT条件](https://zhuanlan.zhihu.com/p/26514613)
+- [深度学习优化算法SGD、Adagrad等](https://zhuanlan.zhihu.com/p/22252270)
 
 #### （六）其他知识点
 - [先验概率 & 后验概率](https://zhuanlan.zhihu.com/p/38567891)
