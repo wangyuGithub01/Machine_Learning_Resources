@@ -84,6 +84,8 @@
 - [LR & FTRL](https://zhuanlan.zhihu.com/p/55135954)
 - [FM算法](https://zhuanlan.zhihu.com/p/37963267):讲的蛮细的
 - [FM算法结合推荐系统的讲解](https://zhuanlan.zhihu.com/p/58160982)
+- [DSSM模型](https://zhuanlan.zhihu.com/p/335112207)
+- [DSSM模型的损失函数（顺带讲了point-wise, list-wise, pair-wise损失函数）](https://zhuanlan.zhihu.com/p/322065156)
 - [在线最优化求解 Online Optimization](https://github.com/wzhe06/Ad-papers/blob/master/Optimization%20Method/%E5%9C%A8%E7%BA%BF%E6%9C%80%E4%BC%98%E5%8C%96%E6%B1%82%E8%A7%A3%28Online%20Optimization%29-%E5%86%AF%E6%89%AC.pdf)
 
 ### 六、推荐书籍/笔记/代码实现
