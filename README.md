@@ -65,6 +65,7 @@
 - [回归树、提升树、GBDT](https://www.jianshu.com/p/005a4e6ac775)
 - [GBDT、XGBOOST、LightGBM讲解(强烈推荐看一下)](https://github.com/wangyuGithub01/Machine_Learning_Notes/blob/master/pdf/gbdt_wepon.pdf)
 - [随机森林 GBDT  XGBOOST  LightGBM 比较](http://note.youdao.com/noteshare?id=65790e27fd5737155c31af2c05df8985)
+- [树分裂：信息增益、信息增益率、基尼系数](https://zhuanlan.zhihu.com/p/245617910)
 
 3. 其他
 - [各种机器学习算法的应用场景](https://www.zhihu.com/question/26726794)
