@@ -31,6 +31,7 @@
 - [常见损失函数2](https://zhuanlan.zhihu.com/p/77686118)
 
 #### （四）模型训练
+- [深度学习参数初始化 Lecunn、Xavier、He初始化](https://cloud.tencent.com/developer/article/1542736)
 - [经验误差与泛化误差、偏差与方差、欠拟合与过拟合、交叉验证](http://note.youdao.com/noteshare?id=b629383adb3b09eb31b754c337f690b5)
 
 #### （五）优化算法
