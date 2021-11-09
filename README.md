@@ -31,9 +31,12 @@
 - [常见损失函数2](https://zhuanlan.zhihu.com/p/77686118)
 
 #### （四）模型训练
+- [经验误差与泛化误差、偏差与方差、欠拟合与过拟合、交叉验证](http://note.youdao.com/noteshare?id=b629383adb3b09eb31b754c337f690b5)
 - [参数初始化为什么不能全零](https://cloud.tencent.com/developer/article/1535198)
 - [深度学习参数初始化 Lecunn、Xavier、He初始化](https://cloud.tencent.com/developer/article/1542736)
-- [经验误差与泛化误差、偏差与方差、欠拟合与过拟合、交叉验证](http://note.youdao.com/noteshare?id=b629383adb3b09eb31b754c337f690b5)
+- [dropout]()
+- [Batch Normalization](https://cloud.tencent.com/developer/article/1551518)
+- [dropout和BN在训练&预测时有什么不同](https://zhuanlan.zhihu.com/p/61725100)
 
 #### （五）优化算法
 - [梯度下降法、牛顿法和拟牛顿法](https://zhuanlan.zhihu.com/p/37524275)
