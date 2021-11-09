@@ -37,6 +37,7 @@
 - [dropout]()
 - [Batch Normalization](https://cloud.tencent.com/developer/article/1551518)
 - [dropout和BN在训练&预测时有什么不同](https://zhuanlan.zhihu.com/p/61725100)
+- [ResNet](https://cloud.tencent.com/developer/article/1591484)
 
 #### （五）优化算法
 - [梯度下降法、牛顿法和拟牛顿法](https://zhuanlan.zhihu.com/p/37524275)
