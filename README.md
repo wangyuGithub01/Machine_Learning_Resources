@@ -82,6 +82,7 @@
 - [word2vec]()
 - [fasttext](https://zhuanlan.zhihu.com/p/32965521)
 - [Transformer、self-attention](https://zhuanlan.zhihu.com/p/54356280)
+- [encode-decode attention和transformer self-attention对比](https://zhuanlan.zhihu.com/p/53682800)
 - [Bert](https://fancyerii.github.io/2019/03/05/bert-prerequisites/) 零基础入门，prerequisites很全
 - [Bert / Elmo](http://www.sohu.com/a/281795578_473283)
 - [XLNet](https://zhuanlan.zhihu.com/p/70257427)
