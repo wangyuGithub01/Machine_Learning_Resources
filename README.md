@@ -72,7 +72,7 @@
 - [逻辑回归与决策树在分类上的区别](https://blog.csdn.net/zhang15953709913/article/details/84841988)
 - [回归树、提升树、GBDT](https://www.jianshu.com/p/005a4e6ac775)
 - [GBDT、XGBOOST、LightGBM讲解(强烈推荐看一下)](https://github.com/wangyuGithub01/Machine_Learning_Notes/blob/master/pdf/gbdt_wepon.pdf)
-- [XGBOOST具体例子一步步推导，包括缺失值怎么处理（很细值得看）](https://www.jianshu.com/p/ac1c12f3fba1)
+- [XGBOOST具体例子一步步推导，包括缺失值怎么处理（很细值得看）](https://www.jianshu.com/p/ac1c12f3fba1) [包含前面文章内容，更全的总结](https://zhuanlan.zhihu.com/p/92837676)
 - [随机森林 GBDT  XGBOOST  LightGBM 比较](http://note.youdao.com/noteshare?id=65790e27fd5737155c31af2c05df8985)
 - [树分裂：信息增益、信息增益率、基尼系数](https://zhuanlan.zhihu.com/p/245617910)
 
