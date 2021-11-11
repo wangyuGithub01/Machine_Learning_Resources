@@ -84,8 +84,8 @@
 - [fasttext](https://zhuanlan.zhihu.com/p/32965521)
 - [Transformer、self-attention](https://zhuanlan.zhihu.com/p/54356280)
 - [encode-decode attention和transformer self-attention对比](https://zhuanlan.zhihu.com/p/53682800)
+- [Transformer中的positional encoding](https://www.zhihu.com/question/347678607/answer/864217252)
 - [Bert](https://fancyerii.github.io/2019/03/05/bert-prerequisites/) 零基础入门，prerequisites很全
-- [Bert / Elmo](http://www.sohu.com/a/281795578_473283)
 - [XLNet](https://zhuanlan.zhihu.com/p/70257427)
 - [nlp中的词向量对比：word2vec/glove/fastText/elmo/GPT/bert](https://zhuanlan.zhihu.com/p/56382372)
 - [NLP/AI面试全记录](https://zhuanlan.zhihu.com/p/57153934)
