@@ -80,7 +80,9 @@
 - [各种机器学习算法的应用场景](https://www.zhihu.com/question/26726794)
 
 ### 四、NLP相关
-- [word2vec]()
+- word2vec [文章1](https://www.cnblogs.com/pinard/p/7160330.html)[文章2](https://www.cnblogs.com/pinard/p/7243513.html) [文章3](https://www.cnblogs.com/pinard/p/7249903.html)
+- [LSTM](https://zhuanlan.zhihu.com/p/34203833)
+- [LSTM为什么用tanh](https://www.zhihu.com/question/46197687/answer/895834510)
 - [fasttext](https://zhuanlan.zhihu.com/p/32965521)
 - [Transformer、self-attention](https://zhuanlan.zhihu.com/p/54356280)
 - [encode-decode attention和transformer self-attention对比](https://zhuanlan.zhihu.com/p/53682800)
