@@ -85,6 +85,7 @@
 - [LSTM为什么用tanh](https://www.zhihu.com/question/46197687/answer/895834510)
 - [fasttext](https://zhuanlan.zhihu.com/p/32965521)
 - [Transformer、self-attention](https://zhuanlan.zhihu.com/p/54356280)
+- [Transformer图解](https://zhuanlan.zhihu.com/p/338817680)
 - [encode-decode attention和transformer self-attention对比](https://zhuanlan.zhihu.com/p/53682800)
 - [Transformer中的positional encoding](https://www.zhihu.com/question/347678607/answer/864217252)
 - [Bert](https://fancyerii.github.io/2019/03/05/bert-prerequisites/) 零基础入门，prerequisites很全
