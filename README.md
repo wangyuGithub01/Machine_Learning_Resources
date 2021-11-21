@@ -126,4 +126,6 @@
 - [常考智力题/逻辑题](https://github.com/wangyuGithub01/Machine_Learning_Resources/blob/master/pdf/IQ.md)
 - [常考概率题](https://github.com/wangyuGithub01/Machine_Learning_Resources/blob/master/pdf/statistic.md)
 
+### 十、C++相关
+- [STL详解及常见面试题](https://blog.csdn.net/daaikuaichuan/article/details/80717222)
 
