@@ -129,3 +129,6 @@
 ### 十、C++相关
 - [STL详解及常见面试题](https://blog.csdn.net/daaikuaichuan/article/details/80717222)
 
+### 工作之后工程实践相关
+
+- [基于PQ量化的近似近邻搜索 (ANN) ](http://xtf615.com/2020/08/01/EBR/)
